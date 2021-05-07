@@ -1,4 +1,4 @@
-package mx.com.gm.HolaMundoEE;
+package com.roddevcode.HolaMundoEE;
 
 import javax.ws.rs.ApplicationPath;
 import javax.ws.rs.core.Application;

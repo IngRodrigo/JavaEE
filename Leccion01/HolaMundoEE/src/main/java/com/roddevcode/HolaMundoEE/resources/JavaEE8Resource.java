@@ -1,4 +1,4 @@
-package mx.com.gm.HolaMundoEE.resources;
+package com.roddevcode.HolaMundoEE.resources;
 
 import javax.ws.rs.GET;
 import javax.ws.rs.Path;
